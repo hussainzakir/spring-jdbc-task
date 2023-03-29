@@ -5,5 +5,7 @@ This application  can perform all the CRUD operations along with that you can se
 
 
 DATABASE  -   springdata
+
 TABLES    -   empol, tcs, deloite
+
 COLUMN    -   id, name, salary, designation, setdate
