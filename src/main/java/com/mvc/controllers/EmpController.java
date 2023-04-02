@@ -217,6 +217,11 @@ public class EmpController {
 	 * 
 	 * return "viewemp"; }
 	 */
+  
+/*
+public String result(){ 
 
-
+functional.output<>
+}
+*/
 }
